@@ -7,4 +7,4 @@
 
 ```
 
-ALK @dotyerts 2022
+ALK 2022
